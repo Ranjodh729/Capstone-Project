@@ -449,8 +449,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Issues**: Report bugs via GitHub Issues
 - **Questions**: Open a discussion in the repository
-- **Collaboration**: Email [your-email@institution.edu]
-
 ## 🙏 Acknowledgments
 
 - **ARCADE Dataset Contributors**: For providing annotated CT images
