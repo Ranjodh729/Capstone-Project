@@ -872,7 +872,7 @@ If you find this project helpful for your research or clinical work, please cons
 *Developed for cardiovascular disease detection and risk assessment research*  
 *Version: 3.0*  
 *Last Updated: October 2025*  
-*Maintained by: [Your Name/Team]*
+*Maintained by: Group 28*
 
 ---
 
