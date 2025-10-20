@@ -1,4 +1,4 @@
-# Comprehensive Cardiovascular Disease Detection Suite
+# Coronary Artery Disease Detection Using Machine Learning on Public Datasets
 
 ## 🏥 Project Overview
 
